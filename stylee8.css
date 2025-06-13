@@ -1,0 +1,19 @@
+/* p::after{ 
+    content: " Did you ate shit again!";
+    background-color: red;
+}
+p::before{
+    content: " Did you ate shit again!";
+ } */
+p{
+    animation: pointdown 1000ms infinite alternate-reverse;
+}
+
+@keyframes pointdown{
+    0%{
+        transform: translateY(0);
+    }
+    100%{
+        transform: translateY(50px)
+    }
+}

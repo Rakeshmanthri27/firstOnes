@@ -1,0 +1,25 @@
+#paragraph-1{
+    color: black;
+}
+/* bad practices like using multiple number of specifiers */
+/* #paragraph-1.para-1.wow{ 
+    color:cadetblue;
+
+}
+.para-1.wow{
+    color: green;
+}
+p.para-1{
+color: chartreuse;
+
+
+ } 
+p{
+    color: indigo !important ;
+}*/
+.para-1{
+color: blue;
+}
+p{
+    color:chocolate;
+}

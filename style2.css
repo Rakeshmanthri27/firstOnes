@@ -1,0 +1,32 @@
+.para1{
+  color: red;
+
+}
+
+
+#paragraph1 {
+    color:blue;
+}
+
+p {
+    color:yellow;
+}
+
+/* bad practices
+/* Generics & class/ID 
+ p.para1 { 
+     color:maroon;
+  } 
+
+  multiple classes/IDs 
+  .para1.para2{
+    color:black;
+  }
+
+/* using important */
+/* p { 
+    color:yellow !important;
+ } */
+
+
+ 

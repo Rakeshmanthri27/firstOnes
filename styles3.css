@@ -1,0 +1,21 @@
+div{
+    /* size */
+    width: 100%;
+    max-width: 400px;
+    /* avoid max use of height */
+    /* height: 200px;  */
+    /* height: 100vh; */
+    background-color: red;
+
+/* Fonts */
+font-size:medium;
+font-weight:bold;
+font-family: Arial;
+
+/* borders */
+border-width: 10px;
+border-color: black;
+border-style: solid;
+
+}
+
